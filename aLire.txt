@@ -1,0 +1,2 @@
+Le dossier avec image est à déposer juste avant d'entrer dans le repertoire V5.
+Chemin à deposer dans la variable "cheminAcces" ( lecteur.cpp / ligne 155 )
