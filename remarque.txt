@@ -1,1 +1,0 @@
-Notre V6 est quasiment terminée, il ne nous manque que le filtrage des diaporamas à faire.
